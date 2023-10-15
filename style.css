@@ -4,5 +4,47 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Rubik;
 }
 
+.container0{
+    width: 100vw;
+    height: 100vh;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #344151;
+    gap: 10px;
+}
+
+.name{
+    color:#0398d4;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.box0{
+    background: white;
+    color: #344151;
+    display: flex;
+    font-size: 25px;
+    border-radius: 2px;
+    gap: 52px;
+    padding: 12px 20px;
+}
+
+.minus-btn{
+    border-right: 2px solid #bfbfbf;
+    padding-right: 20px;
+}
+
+.plus-btn{
+    border-left: 2px solid #bfbfbf;
+    padding-left:  20px;
+}
+
+.counter{
+    font-weight: bold;
+    /* padding: 0px 40px; */
+}
