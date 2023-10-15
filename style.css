@@ -30,7 +30,7 @@
     display: flex;
     font-size: 25px;
     border-radius: 2px;
-    gap: 52px;
+    gap: 16px;
     padding: 15px 20px;
 }
 
@@ -46,5 +46,7 @@
 
 #counter{
     font-weight: bold;
+    width: 80px;    
+    text-align: center;
     /* padding: 0px 40px; */
 }
