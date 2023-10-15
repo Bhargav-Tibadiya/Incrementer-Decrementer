@@ -31,7 +31,7 @@
     font-size: 25px;
     border-radius: 2px;
     gap: 52px;
-    padding: 12px 20px;
+    padding: 15px 20px;
 }
 
 .minus-btn{
@@ -44,7 +44,7 @@
     padding-left:  20px;
 }
 
-.counter{
+#counter{
     font-weight: bold;
     /* padding: 0px 40px; */
 }
